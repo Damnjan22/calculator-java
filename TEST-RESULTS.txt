@@ -1,0 +1,5 @@
+1- Ako je rezultat veæi od 9999999 kalkulator ne ispisuje ceo broj. Slièno je sa ostatkom.
+2- Ako se unese prvo znak "*" ili znak "/" pa zatim broj dobija se greška error, umesto oèekivanog rezultata 0. 
+   Npr. ako se u kalkulator unese samo "/9" i pritisne enter kalkulator æe prikazati error, umesto 0 - jer ništa podeljeno sa 9 ostaje ništa odnosno 0.
+
+ 
